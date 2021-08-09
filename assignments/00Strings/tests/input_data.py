@@ -9,7 +9,7 @@ input_values = [
     # Test case 1
     (
         [""],
-        ["Hello World!"],
-        "Debe salir\nHello World!"
+        ["primeros=TecNM-Camp","ultimos=Culiacán","en medio=cNM-C","pares=TcMCmu uicn","impares=eN-apsClaá"],
+        "Revisa tus notas sobre strings, especialmente el indexing y slicing"
     )
 ]
