@@ -1,3 +1,3 @@
 # Ejercicios Básicos!
 
-- 00 Hello World
+- 00 Strings
