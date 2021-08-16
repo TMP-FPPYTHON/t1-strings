@@ -14,8 +14,6 @@ if __name__ == '__main__':
 
 La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
-Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
-
 Inicializa el string:
 
 ```python
