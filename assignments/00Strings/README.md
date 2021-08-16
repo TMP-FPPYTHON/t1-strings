@@ -16,9 +16,25 @@ La línea `#escribe tu código abajo de esta línea` es un comentario, el progra
 
 Agrega una nueva línea abajo del comentario con el código para imprimir `Hello World!` y ejecuta el programa.
 
-La salida del programa debe de ser exactamente de la siguiente forma:
+Inicializa el string:
+
+```python
+escuela=“TecNM-Campus Culiacán”
+```
+Encuentra los strings:
+
+```python
+primeros= #Primeros nueve caracteres de escuela
+ultimos= #Últimos 8 caracteres de escuela
+enmedio=#substring de la posición 2 a la 6
+pares=#substring con caracteres en posición par
+impares=#substring con caracteres en posición impar
 
 ```
+
+La salida del programa debe de ser exactamente de la siguiente forma:
+
+```python
 primeros=TecNM-Camp
 ultimos=Culiacán
 en medio=cNM-C
