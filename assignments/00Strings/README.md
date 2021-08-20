@@ -22,7 +22,7 @@ escuela=“TecNM-Campus Culiacán”
 Encuentra los strings:
 
 ```python
-primeros= #Primeros nueve caracteres de escuela
+primeros= #Primeros diez caracteres de escuela
 ultimos= #Últimos 8 caracteres de escuela
 enmedio=#substring de la posición 2 a la 6
 pares=#substring con caracteres en posición par
